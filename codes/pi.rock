@@ -1,0 +1,16 @@
+Pi is 0
+
+Sign is 1
+Index is 1
+
+my frase is "Insira a quantidade de termos da série:"
+Shout my frase
+Listen to count
+While count is higher than 0
+    Put 4 times Sign over Index into Mystery (4*Sign/Index)
+    Put Pi plus Mystery into Pi (Pi + Mistery)
+    Put 0 minus Sign into Sign (-Sign)
+    Put Index plus 2 into Index (Index + 2)
+    Put count minus 1 into count (Count--)
+
+Shout Pi
