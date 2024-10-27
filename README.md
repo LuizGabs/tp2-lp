@@ -1,4 +1,4 @@
-## Trabalho Prático 1 - Linguagens de Programação
+## Trabalho Prático 2 - Linguagens de Programação
 
 Para executar os códigos do trabalho, faça o clone do repositório:
 
