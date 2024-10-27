@@ -3,7 +3,7 @@
 Para executar os códigos do trabalho, faça o clone do repositório:
 
 ```
-git clone https://github.com/LuizGabs/tp1-lp.git
+git clone https://github.com/LuizGabs/tp2-lp.git
 ```
 
 Após isso, abra o terminal na pasta raiz do trabalho (rockstar), e digite:
